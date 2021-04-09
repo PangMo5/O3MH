@@ -1,2 +1,2 @@
 # OM3H
-Osu Mania! Mapping Modding Helper
+Osu! Mania Mapping Modding Helper
