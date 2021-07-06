@@ -1,2 +1,2 @@
-# OM3H
+# O3MH
 Osu! Mania Mapping Modding Helper
